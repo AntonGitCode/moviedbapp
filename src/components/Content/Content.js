@@ -10,6 +10,12 @@ import { TabContext } from '../TabContext/TabContext'
 import './Content.css'
 
 export default class Content extends Component {
+  componentDidUpdate(prevProps) {
+    if (prevProps.inputSearch !== this.props.inputSearch || prevProps.currentPage !== this.props.currentPage) {
+      this.props.updateMovies()
+    }
+  }
+
   render() {
     const { inputSearch, currentPage, totalItems, isLocalStorageSupported } = this.props
     const { handleChange, onChangePage, movies, activeTab, currentPageRated, onChangePageRated, ratedMovies } =

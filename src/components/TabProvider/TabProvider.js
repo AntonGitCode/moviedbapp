@@ -12,11 +12,6 @@ class TabProvider extends Component {
     ratedMovies: [],
   }
 
-  componentDidUpdate(prevProps, prevState) {
-    if (prevState.inputSearch !== this.state.inputSearch && this.state.currentPage > 1)
-      this.setState({ currentPage: 1 })
-  }
-
   setActiveTab = (index) => {
     this.setState({ activeTab: index })
   }
@@ -42,7 +37,7 @@ class TabProvider extends Component {
       this.setState({ inputSearch: '' })
       return
     }
-    if (value !== '') this.setState({ inputSearch: value })
+    if (value !== '') this.setState({ inputSearch: value, currentPage: 1 })
     else this.setState({ inputSearch: '' })
   }
 
