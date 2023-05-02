@@ -1,1 +1,1 @@
-https://movieapp-gray.vercel.app/
+https://moviesapp-teal.vercel.app/
