@@ -1,0 +1,425 @@
+[33mcommit b295712e6b5f98f189faa9ff2bf4591167e1dd82[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Thu Apr 27 00:29:40 2023 +0300
+
+    linters added
+
+[33mcommit 227a11c8103ae19bbf8212f74d11c7a768bb9cd9[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Wed Apr 26 19:49:07 2023 +0300
+
+    fixed pagination
+
+[33mcommit afee01dea90d1154dc9f474f259ddb010c09a602[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Wed Apr 26 19:41:31 2023 +0300
+
+    pagination fixed
+
+[33mcommit 8fc8830b3fcec0634dea029f179ed2d43c57fc00[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Wed Apr 26 19:21:02 2023 +0300
+
+    fixed debounce
+
+[33mcommit 4f959cfd10fca50c0c15d1a66a442d97cb1694dc[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Wed Apr 26 18:37:31 2023 +0300
+
+    debounce
+
+[33mcommit 89e16709e8304750b97fcb6664ee50a5a18e8fc1[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Mon Apr 24 18:54:50 2023 +0300
+
+    fixed
+
+[33mcommit 58a56f8ffe322a37f4362936b63c8a90c4f34f82[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Mon Apr 24 18:23:05 2023 +0300
+
+    fixed
+
+[33mcommit ae10d7e1c27405a841d14a810fffebbb13bb5fd6[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Mon Apr 24 17:31:56 2023 +0300
+
+    fixed
+
+[33mcommit 941373591f3190e402c0a024dc063b66430975f5[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Mon Apr 24 05:00:13 2023 +0300
+
+    fixed
+
+[33mcommit 7b2647ff686eab297b8824f4869f822276e08ee9[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Mon Apr 24 04:49:04 2023 +0300
+
+    fixed
+
+[33mcommit 3653f562abf0fbb51b01ed530e25c1deb3021f0c[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Mon Apr 24 04:42:52 2023 +0300
+
+    fixed
+
+[33mcommit 983053eed525e4de802a3192f1e17354f57638bb[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Mon Apr 24 04:35:11 2023 +0300
+
+    fixed
+
+[33mcommit 0edd5a9393fee29950a563903a2980f6dea410d9[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Sun Apr 23 22:39:54 2023 +0300
+
+    fixed
+
+[33mcommit 84280583c7f41196588fec8e94038bd5f106605d[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Sun Apr 23 22:32:12 2023 +0300
+
+    fixed
+
+[33mcommit bd24bca9fc9fdaf406381d0b54863d28bd1de550[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Sun Apr 23 20:25:42 2023 +0300
+
+    fixed
+
+[33mcommit 2c88c36310e7521162a14824e75f6fb3943c9e18[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Sun Apr 23 20:02:24 2023 +0300
+
+    fixed passing contexts
+
+[33mcommit f022460c1abc0fcddc69c61421cfc09d7b4f8c69[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Sun Apr 23 19:40:52 2023 +0300
+
+    fixed optimize code
+
+[33mcommit 127e3c2542e62a27d85eafe38ae13fdec2276468[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Sun Apr 23 18:44:49 2023 +0300
+
+    fixed refactored
+
+[33mcommit 974e6f4e2442adfdd75750f420b2b77b3c08b0de[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Sun Apr 23 18:05:31 2023 +0300
+
+    fixed remove passing contexts
+
+[33mcommit 92d32f1dcea7f9c42ab675a8d758b695fa82a69c[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Sun Apr 23 12:52:20 2023 +0300
+
+    fixed
+
+[33mcommit 21902fb2c7d3712d3bf0d0503e87e60ec0551e9b[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Sun Apr 23 01:49:55 2023 +0300
+
+    fixed with localStorage
+
+[33mcommit a13c11b0daf344e7160b7baa6d1b7ebe79bf2d32[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Fri Apr 21 17:21:23 2023 +0300
+
+    localStorage added
+
+[33mcommit 8de8e750f99cf8e170942522c5b6c644283f7146[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Fri Apr 21 16:09:48 2023 +0300
+
+    fixed
+
+[33mcommit 24301fd60367823c1fbbc43316b535f8810ec71d[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Fri Apr 21 15:47:30 2023 +0300
+
+    stub for unfounded movie poster
+
+[33mcommit e324a275fc307c05c9ddf69d246f43111ad18b72[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Fri Apr 21 14:16:18 2023 +0300
+
+    separate GetSession and GetGenres
+
+[33mcommit 4daccebb6041502fa271a6e8f89d168e31488009[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Fri Apr 21 11:09:48 2023 +0300
+
+    separate getting session and genres
+
+[33mcommit 2885921fbdbe9e06c31878750e201e803b57d938[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Fri Apr 21 10:41:39 2023 +0300
+
+    fixed
+
+[33mcommit c7c764de71a5d0c247f24fe0325c3fbed83ae724[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Fri Apr 21 10:27:55 2023 +0300
+
+    fixed -work with URL-object
+
+[33mcommit ac8871bb2e21a35b0afb16c423fdc665edc4458d[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Fri Apr 21 10:16:09 2023 +0300
+
+    added Url-object
+
+[33mcommit d8a4a6ed66b98d9484a4dd99dc160a3417223a55[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Fri Apr 21 10:03:46 2023 +0300
+
+    fixed - add Url-object and url.searchParams
+
+[33mcommit 2b86e678a1be72eee31da874da0b793ca3433ee2[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Fri Apr 21 02:12:32 2023 +0300
+
+    fixed
+
+[33mcommit 7a14b1d01d75d80030241d66cdee3a88ce0c8464[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Thu Apr 20 23:21:03 2023 +0300
+
+    fixed
+
+[33mcommit e0148c0300097bcb9460ae82f458c851aa288e41[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Thu Apr 20 23:01:26 2023 +0300
+
+    fixed GeneralApp >> App - renames files
+
+[33mcommit b721a5f18fec79da6c90c98e447d3e4c2e664b1f[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Thu Apr 20 22:48:16 2023 +0300
+
+    fixed debounce
+
+[33mcommit a185887f06d7e21fcb99e4085af0c489a8d2ac1f[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Tue Apr 18 18:05:19 2023 +0300
+
+    fixed
+
+[33mcommit 8d65517f02418b0bc2875a01384fe84dc83b1d62[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Tue Apr 18 17:50:22 2023 +0300
+
+    fixed
+
+[33mcommit 7a4912f3b0eb428f30a097d2e7c96f011644ca87[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Tue Apr 18 16:26:50 2023 +0300
+
+    fixed
+
+[33mcommit 052b88f6ef8bbf1c494ed6be21404594d39f54df[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Tue Apr 18 12:14:49 2023 +0300
+
+    fixed
+
+[33mcommit f91c546bed47c863e6be10d9fac2e38041990552[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Tue Apr 18 12:04:03 2023 +0300
+
+    fixed
+
+[33mcommit 5dae88073b98f37637e72e744cc36fafeb7aea4d[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Tue Apr 18 11:33:58 2023 +0300
+
+    fixed
+
+[33mcommit 5866fa2b1a14f24bb46f2dba3f9b06d5e54a52c4[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Tue Apr 18 04:00:37 2023 +0300
+
+    fixed
+
+[33mcommit 7be5af23f2c36f338fdcaadcccbe34361d130139[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Tue Apr 18 03:38:20 2023 +0300
+
+    fixed
+
+[33mcommit 371c402c8fc1823bdc3c8ff4c593ded7102a7719[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Tue Apr 18 02:53:28 2023 +0300
+
+    fixed
+
+[33mcommit 2835491830697782d5ae09e42544cb4dc1648a83[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Tue Apr 18 02:39:18 2023 +0300
+
+    fixed GuestSessionContext
+
+[33mcommit 51d52eeeada826f6b3b3ef3b4d4f977b4f0bcee4[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Mon Apr 17 22:21:54 2023 +0300
+
+    fixed
+
+[33mcommit ca26b67b173c62af5f56a8bb623c20f424273b85[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Mon Apr 17 21:02:20 2023 +0300
+
+    fixed
+
+[33mcommit fbb858d42e61867c0b102725ba298641da3cb488[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Mon Apr 17 20:08:25 2023 +0300
+
+    fixed
+
+[33mcommit 83372fb620a2e627eef86e6980bd4ce189cc2c50[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Mon Apr 17 18:01:48 2023 +0300
+
+    fixed
+
+[33mcommit 1e14e7ca0accd8d14e97e98dec18852db2107df0[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Mon Apr 17 01:15:42 2023 +0300
+
+    fixed
+
+[33mcommit a86c64135bd4e30fbb6051a575505912d1393936[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Mon Apr 17 01:00:29 2023 +0300
+
+    fixed
+
+[33mcommit b81523ff0ad29e03a2d2eab739ed4f912e4888e7[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Sun Apr 16 20:40:42 2023 +0300
+
+    fixed
+
+[33mcommit f0ee7ad98c8ba4550d2c0bcc6ad11194e9330c2f[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Sat Apr 15 02:16:43 2023 +0300
+
+    fixed
+
+[33mcommit 1b1e3c8be9e61bfb6e2ddd4ac55880ae8de2a390[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Fri Apr 14 22:35:48 2023 +0300
+
+    fixed
+
+[33mcommit 2e601d33b4b6454ef0234761caf26518f9906479[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Fri Apr 14 22:27:08 2023 +0300
+
+    fixed
+
+[33mcommit 6a5fcfd07f2452c5a661ae12e4c3d14657a0b3be[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Fri Apr 14 22:11:41 2023 +0300
+
+    fixed
+
+[33mcommit 696fbb21725de8b10eb9d611a3ac0c1c040f4032[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Fri Apr 14 16:42:29 2023 +0300
+
+    fixed
+
+[33mcommit 781a0ce3729501f30bf772b43d3fb65bd487f25f[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Fri Apr 14 16:23:25 2023 +0300
+
+    fixed
+
+[33mcommit dd9455bdb06300da18970962cd2fdcb4b5e05e31[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Wed Apr 12 22:29:37 2023 +0300
+
+    fixed
+
+[33mcommit 2ff42e18a8b151c21827ba61f80ab8dfae2b4a23[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Wed Apr 12 21:34:22 2023 +0300
+
+    fixed Tabs and switch between tabs - Context
+
+[33mcommit 06217fc30d3e06c0efa183edaf3937e989fc8726[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Tue Apr 11 21:39:18 2023 +0300
+
+    fixed
+
+[33mcommit 762632b71915b5a62caa28e6dd728f2bd4d48353[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Tue Apr 11 17:11:50 2023 +0300
+
+    fixed
+
+[33mcommit 042cfc964d42a13a19d6480822e32a9a9087b2d9[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Tue Apr 11 17:09:36 2023 +0300
+
+    fixed
+
+[33mcommit 90c0bb5f1dfa3cbdefd37ffab44653c016b2bbba[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Tue Apr 11 16:18:30 2023 +0300
+
+    fixed
+
+[33mcommit 6c5a4cb61f2bde9b4a587988bfa3ead1d8bd7ec7[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Tue Apr 11 15:39:08 2023 +0300
+
+    fixed
+
+[33mcommit aeb3f549aecfe7cc1823e8e747af5c1eaa058eaf[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Mon Apr 3 15:23:27 2023 +0300
+
+    added debounce lodash
+
+[33mcommit 773ab22b67fc30a4ea178f657baccd28f03a2d67[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Mon Apr 3 12:25:42 2023 +0300
+
+    fixed, but Without deBounce
+
+[33mcommit 54c3fa2173acc90209e59e8d8e021ffd9e60b891[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Mon Apr 3 11:16:18 2023 +0300
+
+    Vercel url
+
+[33mcommit f8140920046ddf1ae31418089eeb228709a2b762[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Mon Apr 3 11:14:45 2023 +0300
+
+    url to vercel
+
+[33mcommit 83edf3573825567ee425d090ec8372758ee6496f[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Mon Apr 3 11:00:49 2023 +0300
+
+    fixed
+
+[33mcommit da79e21619fd985b8a5eae57aef56e12e29d5184[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Mon Apr 3 10:57:29 2023 +0300
+
+    fix all. build without debounce!
+
+[33mcommit 3d5cbd7135545cde0208a37f1b511bfa12a1cd54[m
+Author: Anton Chernetsov <anton.chernetsov@gmail.com>
+Date:   Mon Mar 27 12:04:31 2023 +0300
+
+    Initialize project using Create React App

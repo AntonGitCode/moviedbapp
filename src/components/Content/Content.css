@@ -1,0 +1,63 @@
+.wrapper {
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: white;
+  justify-content: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.container {
+  min-width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: white;
+  justify-content: center;
+  gap: 36px;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
+
+.container::after {
+  content: '';
+  width: 45%;
+}
+
+.card:last-child {
+  align-self: flex-start;
+}
+
+.search {
+  display: flex;
+  justify-content: center;
+  outline: none;
+  height: 40px;
+  margin: 0;
+  padding-left: 1rem;
+  border: solid 1px #d9d9d9;
+  border-radius: 4px;
+  font-family: 'Inter UI';
+  font-size: 16px;
+  line-height: 22px;
+  width: 94%;
+}
+
+.info-message {
+  display: flex;
+  justify-content: center;
+  width: 80%;
+  margin: 10vh auto;
+}
+
+.pagination {
+  margin: 0 auto;
+}
